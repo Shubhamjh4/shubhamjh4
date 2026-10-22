@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi 👋, I'm Shubham Kumar Jha
@@ -117,7 +117,6 @@ I build practical software, explore Generative AI, and enjoy solving problems wi
   </a>
 </p>
 
----
 
 <div align="center">
 
